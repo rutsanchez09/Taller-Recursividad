@@ -1,4 +1,5 @@
-# Taller de Recursividad - Estructuras de Datos
+# Taller de Recursividad - Estructuras de Datos 
+**Rut Ester Sanchez Arroyo**
 
 Este repositorio contiene la solución a los 14 ejercicios propuestos para el taller de Recursividad
 
@@ -25,3 +26,13 @@ Los ejercicios incluidos son:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/rutsanchez09/Taller-Recursividad.git]
+
+## nota
+  
+Abra el archivo src/Main.java.
+
+Busque el bloque de código correspondiente al punto que desea evaluar.
+
+Descomente las dos líneas de código (la instanciación y el llamado al método).
+
+Ejecute el programa.

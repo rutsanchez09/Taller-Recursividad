@@ -27,6 +27,7 @@ public class Punto13Fibonacci {
             for (int i = 0; i <= limite; i++) {
                 System.out.print(calcularFibonacci(i) + (i == limite ? "" : ", "));
             }
+            System.out.println();
         }
     }
 }
